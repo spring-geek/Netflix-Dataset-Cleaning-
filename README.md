@@ -33,6 +33,9 @@ The goal was to make the dataset clean, consistent, and analysis-ready.
 
 - Data Cleaning & Preprocessing  
 - Column Renaming & Data Type Conversion  
+
+
+Added notebook and README
 - Handling Missing & Duplicate Data  
 - Feature Formatting  
 - Preparing Data for EDA and Visualization
